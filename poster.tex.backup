@@ -198,9 +198,7 @@
 {Society for Industrial and Applied Mathematics}
 
   The \textit{Society for Industrial and Applied Mathematics (SIAM)} is an
-  international community of over 13,000 individual members.  Almost 500
-  academic, manufacturing, research and development, service and consulting
-  organizations, government, and military organizations worldwide are
+  international community of over 13,000 individual members and almost 500
   institutional members. The goals are:
 
   \begin{itemize}
@@ -212,41 +210,45 @@
     \item To \emph{provide media for the exchange of information} and ideas
     among mathematicians, engineers, and scientists.
   \end{itemize}
-
-\end{textbox}
-
-\begin{textbox}(chapters) at ($(contents siam.south west)+(0cm,-2cm)$) [below right] <45cm>
-{SIAM Student Chapters}
-
   A \textit{SIAM student chapter} resides at one or more colleges or
   universities, and ideally involves students and faculty members from
-  different departments.  The purpose of a chapter is to generate interest in
-  applied mathematics and computational science by providing students
-  opportunities to:
-  \begin{itemize}
-    \item \emph{Share ideas and enthusiasm} with fellow students and faculty
-    from any relevant department on campus,
-    \item Explore \emph{career opportunities},
-    \item Make \emph{contacts} that will last a lifetime and to
-    \item Develop \emph{leadership skills}.
-  \end{itemize}
-
+  different departments.
 \end{textbox}
 
-\begin{textbox}(activities) at ($(contents chapters.south west)+(0cm,-1.8cm)$) [below right] <45cm>
+\begin{textbox}(activities) at ($(contents siam.south west)+(0cm,-2cm)$) [below right] <45cm>
 {Chapter activities}
-     \begin{tikzpicture}[overlay]
-     \node at (39.5cm,2.8cm){\includegraphics[scale=0.45]{baNaNa}};
-    \end{tikzpicture}
   We are planning a couple of events:
   \begin{itemize}
-    \item \emph{Seminars and lectures} for and by PhD students,
-    \item Student \emph{Computational Finance Day} at TU Delft,
-    \item Learning-by-doing sessions on software tools [ba\emph{NaN}a talks],
+    \item \emph{Seminars and lectures} for and by PhD students.
+     \item Learning-by-doing sessions on software tools [ba\emph{NaN}a talks].
+    \item Student \emph{Computational Finance Day} at TU Delft:\\
+    Every year we organize a one day workshop on a topic in applied mathematics. With this event we try to connect with SIAM chapters of other universities. Also, we give PhD students the possibility to present their work for an international audience. The next research day is about computational finance and takes place on May 23, 2016.
     \item \emph{Company visits} and \emph{socials events} like faculty BBQ, movie-night, \dots
    \end{itemize}
+   
+   
+   Movie Nights
+The SIAM chapter of Delft organizes multiple movie nights every year. At the so called M^2 nights (Movie and Mathematics),  we enjoy the beauty of mathematics in movies.  On previous movie nights we watched movies such as Enigma, and The Theory of Everything.
+We usually order food at the beginning of the gathering;  however, the chapter also provides some snacks and drinks. The movie nights are announced via the SIAM mailing list for members.
+ 
+Company visit
+Applied mathematics has many applications in science and industry. Therefore, most of our members are interested to discover the role of mathematicians within companies and math in industrial processes. To stimulate this, the SIAM student chapter organizes company visits. On these trips members of the student chapter can broaden their perspective of applicability of math in industry, or find out more about interesting opportunities to continue their carrier. For examples of past company visits check out the links below.
+ 
+Research Day
+Our research day definitely lies on the scientific and academic site of the spectrum of chapter activities. Every year we organize a one day workshop on a topic in applied mathematics. With this event we try to connect with SIAM chapters of other universities. Also, we give PhD students the possibility to present their work for an international audience, and get to know other PhD students in the same field. The links below give you more information about the past research days.
+   
+   
 
 \end{textbox}
+
+\begin{textbox}(Join) at ($(contents activities.south west)+(0cm,-2cm)$) [below right] <45cm>
+{Join us!}
+
+  If you want to join, please send an email to \emph{SIAMSC-EWI@tudelft.nl} and state your full name and department.
+
+
+\end{textbox}
+
 
 \begin{textbox}(map) at ($(current page.north east)+(-3cm,-22cm)$) [below left] <25.4cm>
 {SIAM chapters in Europe}
@@ -259,28 +261,24 @@
 
 \end{textbox}
 
+
+
+
 \begin{textbox}(about) at ($(contents map.south east)+(0cm,-3cm)$) [below left] <25.4cm>
 {Who are we?}
 
-  The Chapter at TU Delft has been founded in 2014.
-
-  \begin{itemize}
-    \item \emph{President:} J\"orn Zimmerling
-    \item \emph{Vice President:} Lisa Wobbes
-    \item \emph{Secretary:} Zaza van der Have
-    \item \emph{Treasurer:} Menel Rahrah
-    \item \emph{Webmaster:} Baljinnyam Sereeter
-    \item \emph{BaNaNa off.:} Manuel Baumann
-    \item \emph{Social-event off.:} Mohamed el Abbassi
-  \end{itemize}
-
+  The Chapter at TU Delft has been founded in 2014.\\
+  \begin{center}
+\includegraphics[height=1.5\photobarheight]{board-2015-2016}\\
+\end{center}
+\bigskip
   Our faculty advisors are:
   \begin{itemize}
     \item Kees Vuik
     \item Martin van Gijzen
   \end{itemize}
 
-  The Chapter is \emph{open for MSc and PhD students} as well as staff members.
+  The Chapter is \emph{open for MSc and PhD students} as well as for staff members.
 
 \end{textbox}
 
@@ -299,13 +297,13 @@
     ($(current page.south east)+(\safetymargin,\footerheight+\photobarbottommargin+\photobarheight)$);
 \end{scope}
 \node[above,inner sep=0pt] at ($(current page.south)+(0pt,\footerheight+\photobarbottommargin)$) {%
-  \includegraphics[height=\photobarheight]{groupkrylov}%
+  \includegraphics[height=\photobarheight]{farm_golf}%
   \hspace{\photomargin}%
   \includegraphics[height=\photobarheight]{tata_group}%
   \hspace{\photomargin}%
-  \includegraphics[height=\photobarheight]{farm_golf}%
-  \hspace{\photomargin}%
   \includegraphics[height=\photobarheight]{whiteboard1}%
+  \hspace{\photomargin}%
+  \includegraphics[height=\photobarheight]{KD15_group}%
   \hspace{\photomargin}%
   \includegraphics[height=\photobarheight]{bbq2}%
 };

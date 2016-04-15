@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.5)  26 FEB 2016 09:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.5)  15 APR 2016 12:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -722,61 +722,65 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <20> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 193.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <43> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 200.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 207.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 205.
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 207.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 205.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <43> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 207.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 205.
 LaTeX Font Info:    Calculating math sizes for size <43> on input line 216.
 
-<baNaNa.png, id=34, 260.975pt x 429.605pt>
-File: baNaNa.png Graphic file (type png)
- <use baNaNa.png>
-Package pdftex.def Info: baNaNa.png used on input line 239.
-(pdftex.def)             Requested size: 117.43767pt x 193.32045pt.
-
-<map.png, id=36, 483.78389pt x 427.73756pt>
+<map.png, id=34, 483.78389pt x 427.73756pt>
 File: map.png Graphic file (type png)
  <use map.png>
-Package pdftex.def Info: map.png used on input line 254.
-(pdftex.def)             Requested size: 722.69981pt x 639.01364pt.
+Package pdftex.def Info: map.png used on input line 241.
+(pdftex.def)             Requested size: 650.42542pt x 575.11032pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+<board-2015-2016.jpg, id=36, 642.4pt x 481.8pt>
+File: board-2015-2016.jpg Graphic file (type jpg)
+ <use board-2015-2016.jpg>
+Package pdftex.def Info: board-2015-2016.jpg used on input line 255.
+(pdftex.def)             Requested size: 571.77342pt x 428.82167pt.
 
 <farm_golf.JPG, id=43, 4336.2pt x 3252.15pt>
 File: farm_golf.JPG Graphic file (type jpg)
  <use farm_golf.JPG>
-Package pdftex.def Info: farm_golf.JPG used on input line 302.
+Package pdftex.def Info: farm_golf.JPG used on input line 286.
 (pdftex.def)             Requested size: 408.37038pt x 306.30254pt.
 
 <tata_group.jpg, id=44, 1445.4pt x 1084.05pt>
 File: tata_group.jpg Graphic file (type jpg)
  <use tata_group.jpg>
-Package pdftex.def Info: tata_group.jpg used on input line 304.
+Package pdftex.def Info: tata_group.jpg used on input line 288.
 (pdftex.def)             Requested size: 408.39243pt x 306.30254pt.
 
 <whiteboard1.jpg, id=45, 4120.39375pt x 2743.24875pt>
 File: whiteboard1.jpg Graphic file (type jpg)
  <use whiteboard1.jpg>
-Package pdftex.def Info: whiteboard1.jpg used on input line 306.
+Package pdftex.def Info: whiteboard1.jpg used on input line 290.
 (pdftex.def)             Requested size: 460.0349pt x 306.30254pt.
 
 <KD15_group.jpg, id=46, 1805.04953pt x 1632.79779pt>
 File: KD15_group.jpg Graphic file (type jpg)
  <use KD15_group.jpg>
-Package pdftex.def Info: KD15_group.jpg used on input line 308.
+Package pdftex.def Info: KD15_group.jpg used on input line 292.
 (pdftex.def)             Requested size: 338.6112pt x 306.30254pt.
 
 <bbq2.jpg, id=47, 4306.0875pt x 2866.71pt>
 File: bbq2.jpg Graphic file (type jpg)
  <use bbq2.jpg>
-Package pdftex.def Info: bbq2.jpg used on input line 310.
+Package pdftex.def Info: bbq2.jpg used on input line 294.
 (pdftex.def)             Requested size: 460.07005pt x 306.30254pt.
  [1
 
@@ -785,32 +789,32 @@ Package pdftex.def Info: bbq2.jpg used on input line 310.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./siam.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
-> <./baNaNa.png> <./map.png> <./farm_golf.JPG> <./tata_group.jpg> <./whiteboard
-1.jpg> <./KD15_group.jpg> <./bbq2.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
+> <./map.png> <./board-2015-2016.jpg> <./farm_golf.JPG> <./tata_group.jpg> <./w
+hiteboard1.jpg> <./KD15_group.jpg> <./bbq2.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
  (./poster.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
 Package rerunfilecheck Info: File `poster.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16319 strings out of 494409
- 308110 string characters out of 6164778
- 370482 words of memory out of 5000000
- 19277 multiletter control sequences out of 15000+600000
+ 16318 strings out of 494409
+ 308104 string characters out of 6164778
+ 369456 words of memory out of 5000000
+ 19276 multiletter control sequences out of 15000+600000
  64559 words of font info for 54 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
- 55i,11n,67p,790b,1148s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,67p,790b,752s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on poster.pdf (1 page, 9244465 bytes).
+Output written on poster.pdf (1 page, 9360984 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  166 words of extra memory for PDF output out of 10000 (max. 10000000)
