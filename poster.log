@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.5)  15 APR 2016 12:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2016.1.5)  18 APR 2016 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,69 +718,67 @@ File: siam.pdf Graphic file (type pdf)
  <use siam.pdf>
 Package pdftex.def Info: siam.pdf used on input line 188.
 (pdftex.def)             Requested size: 459.77196pt x 143.58282pt.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <20> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 193.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <43> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 200.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 205.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 196.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 201.
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 205.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 201.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <43> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 205.
-LaTeX Font Info:    Calculating math sizes for size <43> on input line 216.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 201.
+LaTeX Font Info:    Calculating math sizes for size <43> on input line 212.
 
 <map.png, id=34, 483.78389pt x 427.73756pt>
 File: map.png Graphic file (type png)
  <use map.png>
-Package pdftex.def Info: map.png used on input line 241.
+Package pdftex.def Info: map.png used on input line 237.
 (pdftex.def)             Requested size: 650.42542pt x 575.11032pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 
  []
 
 <board-2015-2016.jpg, id=36, 642.4pt x 481.8pt>
 File: board-2015-2016.jpg Graphic file (type jpg)
  <use board-2015-2016.jpg>
-Package pdftex.def Info: board-2015-2016.jpg used on input line 255.
+Package pdftex.def Info: board-2015-2016.jpg used on input line 251.
 (pdftex.def)             Requested size: 571.77342pt x 428.82167pt.
 
 <farm_golf.JPG, id=43, 4336.2pt x 3252.15pt>
 File: farm_golf.JPG Graphic file (type jpg)
  <use farm_golf.JPG>
-Package pdftex.def Info: farm_golf.JPG used on input line 286.
+Package pdftex.def Info: farm_golf.JPG used on input line 281.
 (pdftex.def)             Requested size: 408.37038pt x 306.30254pt.
 
 <tata_group.jpg, id=44, 1445.4pt x 1084.05pt>
 File: tata_group.jpg Graphic file (type jpg)
  <use tata_group.jpg>
-Package pdftex.def Info: tata_group.jpg used on input line 288.
+Package pdftex.def Info: tata_group.jpg used on input line 283.
 (pdftex.def)             Requested size: 408.39243pt x 306.30254pt.
 
-<whiteboard1.jpg, id=45, 4120.39375pt x 2743.24875pt>
-File: whiteboard1.jpg Graphic file (type jpg)
- <use whiteboard1.jpg>
-Package pdftex.def Info: whiteboard1.jpg used on input line 290.
-(pdftex.def)             Requested size: 460.0349pt x 306.30254pt.
+<chess.jpg, id=45, 4015.0pt x 3011.25pt>
+File: chess.jpg Graphic file (type jpg)
+ <use chess.jpg>
+Package pdftex.def Info: chess.jpg used on input line 285.
+(pdftex.def)             Requested size: 408.38509pt x 306.30254pt.
 
 <KD15_group.jpg, id=46, 1805.04953pt x 1632.79779pt>
 File: KD15_group.jpg Graphic file (type jpg)
  <use KD15_group.jpg>
-Package pdftex.def Info: KD15_group.jpg used on input line 292.
+Package pdftex.def Info: KD15_group.jpg used on input line 287.
 (pdftex.def)             Requested size: 338.6112pt x 306.30254pt.
 
 <bbq2.jpg, id=47, 4306.0875pt x 2866.71pt>
 File: bbq2.jpg Graphic file (type jpg)
  <use bbq2.jpg>
-Package pdftex.def Info: bbq2.jpg used on input line 294.
+Package pdftex.def Info: bbq2.jpg used on input line 289.
 (pdftex.def)             Requested size: 460.07005pt x 306.30254pt.
  [1
 
@@ -789,22 +787,22 @@ Package pdftex.def Info: bbq2.jpg used on input line 294.
 
 pdfTeX warning: /usr/bin/pdflatex (file ./siam.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
-> <./map.png> <./board-2015-2016.jpg> <./farm_golf.JPG> <./tata_group.jpg> <./w
-hiteboard1.jpg> <./KD15_group.jpg> <./bbq2.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+> <./map.png> <./board-2015-2016.jpg> <./farm_golf.JPG> <./tata_group.jpg> <./c
+hess.jpg> <./KD15_group.jpg> <./bbq2.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
  (./poster.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 293.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 293.
 Package rerunfilecheck Info: File `poster.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16318 strings out of 494409
- 308104 string characters out of 6164778
- 369456 words of memory out of 5000000
- 19276 multiletter control sequences out of 15000+600000
- 64559 words of font info for 54 fonts, out of 8000000 for 9000
+ 16314 strings out of 494409
+ 308015 string characters out of 6164778
+ 368456 words of memory out of 5000000
+ 19272 multiletter control sequences out of 15000+600000
+ 58955 words of font info for 52 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  55i,8n,67p,790b,752s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
@@ -812,7 +810,7 @@ c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on poster.pdf (1 page, 9360984 bytes).
+Output written on poster.pdf (1 page, 10397073 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
